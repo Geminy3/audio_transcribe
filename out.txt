@@ -1,0 +1,297 @@
+0.0-5.06 :  Vous avez tous des câbles HDMI, mais vous ne soupçonnez pas potentiellement le bordel
+5.06-8.46 :  qui peut se cacher derrière ce genre de normes dans l'industrie.
+9.04-12.52 :  Et il y a notamment un truc qui, je pense, n'est pas forcément très très connu.
+12.8-19.24 :  C'est la capacité du HDMI à contrôler les contenus sous copyright, le HDCP.
+20.32-23.58 :  Et quand j'ai découvert ce truc-là, non seulement que ça existait,
+23.78-27.72 :  mais en plus que ça avait énormément de problèmes et qu'en fait, il y a une raison que ce soit là,
+28.9-32.34 :  pourquoi toute l'industrie s'est mise d'accord sur ce truc, si du coup ça ne marche pas,
+32.48-36.58 :  ça fait perdre combien du coût d'argent à tous les consommateurs sur le développement de ce truc-là ?
+36.58-43.2 :  Je me suis dit, attends, si ça se trouve là, il y a genre un des plus gros scandales de l'industrie de la télé,
+43.92-45.84 :  et j'ai l'impression que personne n'est au courant.
+45.94-50.78 :  Et est-ce que tu peux repartir de la base pour expliquer à nous, pauvres mortels, comment tout ça marche ?
+50.78-53.92 :  Tout ça est fait par un consortium qui s'appelle le HDMI Consortium,
+53.92-57.6 :  qui était notamment un des premiers fondateurs, c'était Intel,
+57.94-62.66 :  et aujourd'hui qui discute sur le HDMI, mais aussi sur le protocole dedans,
+62.96-67.92 :  puisque c'est intéressant de le savoir, c'est qu'il y a une compatibilité avec le DVI et le HDMI,
+68.02-70.68 :  parce qu'il parle en fait à l'intérieur le même protocole qui est le HDMI.
+70.98-75.58 :  C'est un consortium, c'est des mecs qui ont beaucoup de pognon, qui sont des industriels,
+76.26-80.68 :  et il y en a plein dans l'industrie, notamment dans l'industrie du vidéo, et c'est énormément de mafia.
+81.7-87.48 :  Le HDMI est peut-être un des moins pires, donc tu vois, c'est peut-être un des moins pires de tout le bordel.
+88.76-93.24 :  L'USB, c'est le plus gros foutoir, et c'est pas vraiment...
+93.24-98.1 :  C'est plus parce qu'il y a vraiment trop d'usages de l'USB, trop d'usages différents, donc il y a beaucoup de batailles.
+98.46-101.78 :  Le HDMI, c'est aussi un consortium, c'est un consortium vidéo,
+102.52-105.26 :  c'est pas le pire, mais c'est vrai que t'as...
+105.26-107.98 :  Chacun qui arrive, qui essaye de mettre ses brevets,
+108.14-116.04 :  chacun qui essaye de tirer la couverteur pour lui entre Samsung, Intel et tout, il y a énormément de noms.
+116.26-123.22 :  C'est-à-dire qu'il y a eu le HDMI 1.0, 1.1, 1.2, 1.3, 1.4, et surtout le 2.0 et le 2.1.
+123.28-132.8 :  Ce qu'il faut quand même savoir, c'est qu'aujourd'hui, le HDMI 2.1, c'est le câble que tu as dans les mains qui a la norme la plus rapide.
+132.8-136.2 :  C'est-à-dire que ça va jusqu'à 48 gigabits par seconde.
+136.24-142.88 :  Malgré tout, il y a plein de gens qui parlent des différentes qualités de câble et en fait tu dis, mais attends, c'est un câble numérique.
+143.04-151.16 :  Et donc en fait, la qualité du cuivre, donc la qualité du câble, va te permettre de transporter des signaux à plus ou moins longue distance.
+151.4-155.16 :  Donc en fait, le fait que tu veuilles parfois acheter des câbles de meilleure qualité,
+155.98-160.26 :  c'est juste pour être sûr que quand tu l'achètes et qu'il arrive chez toi, il fonctionne.
+160.4-162.2 :  Tu vois, ça augmente ta probabilité que ça fonctionne.
+162.2-165.6 :  Mais acheter un câble cher ne va pas améliorer la qualité de l'image.
+165.92-166.1 :  Ça, c'est vrai.
+166.7-172.52 :  Les câbles plaqués hors, ça ne sert à rien puisqu'en fait, les connecteurs, ils sont dans...
+172.52-175.52 :  Tu sais, tu regardes ton truc HDMI et en fait, les connecteurs, ils sont dedans.
+175.72-178.82 :  Donc en fait, tout ce qui est plaqué, ça ne sert littéralement à rien.
+178.98-179.64 :  C'est la première remarque.
+179.92-182.36 :  La deuxième remarque, c'est que, effectivement, ce n'est pas forcément du cuivre.
+182.46-185.4 :  Notamment, il y a des câbles HDMI qui sont en fibre optique.
+185.52-189.6 :  L'important, le HDMI, en fait, c'est le connecteur et puis c'est le protocole.
+189.6-191.96 :  De fait, les protocoles qui passent dessus.
+192.16-196.88 :  Mais en fait, en vrai, ça marche bien en fibre optique, notamment si tu as besoin de faire des longues distances.
+197.0-204.4 :  Ce qu'il faut savoir, c'est que le HDMI, la licence pour le HDMI est assez peu chère par rapport soit au DVI, soit au DisplayPort.
+204.48-208.14 :  Et c'est pour ça qu'en fait, tu as vu du HDMI qui est encore plein d'endroits,
+208.24-212.3 :  alors qu'en fait, tu pourrais le faire en DisplayPort, voire de l'USBC qui peut transporter du DisplayPort.
+212.44-218.48 :  Mais tu sais que rien que ça, le fait qu'il faut payer pour mettre un port HDMI sur le produit...
+218.48-219.08 :  4 centimes.
+219.36-219.7 :  4 centimes.
+219.72-224.18 :  Ça veut dire que tu as un Raspberry Pi, la fondation Raspberry Pi paye 4 centimes pour mettre un HDMI.
+224.98-224.98 : 
+225.26-228.12 :  Mais ça, tu vois, je pense qu'il y a plein de gens qui ne savaient pas que...
+228.12-234.96 :  Mais toutes les normes, en fait, toutes les normes, en fait, ce que tu payes, c'est la licence pour avoir le droit d'utiliser les brevets.
+235.14-240.48 :  Et d'accéder à la norme et surtout à la certification, parce que le truc du HDMI qu'ils ont bien fait, c'est la certification.
+240.48-241.78 :  Et ça, c'est vraiment...
+241.78-248.58 :  Et c'est là où le Consortium USB fait n'importe quoi, mais le Consortium HDMI vraiment fait un truc très bien là-dessus.
+248.78-255.24 :  Donc ça veut dire que moi, demain, donc tu prends l'exemple d'un Raspberry, je veux faire un Banana Berry Pi.
+255.44-257.84 :  Donc en bref, je veux mettre un port HDMI.
+257.92-260.62 :  Je peux pas simplement prendre...
+260.62-263.04 :  Enfin, reproduire les schémas et le vendre.
+263.06-263.24 :  Non.
+263.46-264.44 :  Comment ça se passe ?
+264.44-265.2 :  Tu payes ?
+265.2-269.78 :  Directement, je peux dire j'ai un port HDMI, j'ai le droit d'utiliser le nom HDMI direct comme ça ?
+269.78-270.34 :  Non, tu repays.
+271.76-272.54 :  Quoi ?
+272.54-274.54 :  Donc le HDMI, c'est pas si cher que ça.
+274.96-276.0 :  C'est pas trop mal.
+277.12-283.48 :  Ça permet donc, vous voyez, de l'audio, de la vidéo avec plusieurs normes.
+283.54-290.48 :  Donc du RGB, le sRGB, mais aussi aujourd'hui du YQV444, du YQV420.
+290.7-295.9 :  Donc ça, en gros, pour expliquer, c'est la façon dont les octets sont répartis pour décrire les pixels.
+295.9-299.1 :  Alors oui, et c'est aussi déjà une pré-compression.
+299.28-302.98 :  C'est-à-dire que tu compresses plus par exemple la couleur que la brillance.
+303.2-306.12 :  Puisqu'en fait, tes yeux, ils ont des cônes et des bâtonnets.
+306.34-313.46 :  Et donc tes yeux, ils voient mieux, grosso modo, ils voient mieux les différences de lumière que les différences de couleur.
+313.86-321.3 :  D'ailleurs, c'est pour ça que le soir, en fait, toi, même quand tu vois pas vraiment bien les couleurs, tu peux te repérer.
+321.3-327.76 :  Et ça, ça a impacté les décisions sur les façons d'encoder la vidéo.
+328.0-329.34 :  Bien sûr, c'est hyper intéressant.
+329.58-330.54 :  C'est la première.
+331.04-335.24 :  Le premier truc, c'est qu'en fait, tu prends tes trois composantes de 24 bits.
+335.54-345.04 :  Et la première chose que tu fais, c'est que tu divises par deux en grosso modo dégageant les trois quarts des bits pour les couleurs, en ne gardant que ceux qui sont pour la luminance.
+345.2-346.36 :  Et ça, c'est encore une question de codec.
+347.08-348.52 :  Le HDMI permet d'avoir tout ça.
+348.86-355.28 :  À côté, tu as de quoi, tu as quelques paires qui servent, par exemple, à mettre de l'Ethernet, puisque tu peux mettre de l'Ethernet over HDMI.
+356.46-361.48 :  Il y a cette même paire qui est utilisée pour faire de l'arc, c'est-à-dire l'audio inverse.
+361.64-364.84 :  C'est-à-dire que tu envoies la vidéo dans un sens et tu envoies l'audio dans l'autre sens.
+364.9-366.66 :  C'est ce qui te permet, en fait, de brancher.
+366.66-367.24 :  Je savais pas ça.
+367.36-372.34 :  En fait, c'est ce qui te permet, par exemple, de récupérer le son de ta télé et qu'elle reparte sur ton ampli.
+372.38-377.82 :  Et tu as beaucoup de négociations, parce qu'il y a un protocole de négociations qui te permet, notamment, d'envoyer les Edd-Eids.
+377.82-383.5 :  C'est-à-dire, et de déchanger les espaces de couleurs pour dire je suis en sRGB, je suis en P3, je suis en...
+383.5-385.84 :  Histoire d'avoir une image qui est affichée correctement et pas un truc bizarre.
+385.88-387.1 :  Histoire d'avoir de l'HDR, par exemple.
+387.16-387.4 :  Ah oui.
+387.74-388.12 :  Juste ça.
+388.52-397.58 :  Et dans ces protocoles, tu as une négociation qui est donc la négociation pour le HDCP, qui est donc le HD Content Protection.
+398.02-404.92 :  Et c'est ça le truc qui est le moins connu, parce qu'encore une fois, à la limite, il faut être un peu en ordre pour savoir tout ce dont tu as parlé,
+404.92-407.52 :  en termes de codec, de débit, etc.
+408.3-412.88 :  Mais l'HDCP, je pense que c'est un truc qui n'est pas forcément le plus connu,
+413.4-421.38 :  sauf pour des gens qui ont déjà essayé d'enregistrer, par exemple, des films sur l'ordinateur en le branchant sur une carte d'acquisition.
+421.5-426.4 :  Si vous faites ça, si vous mettez Netflix et vous le branchez dans une carte d'acquisition vidéo, vous avez un écran noir.
+426.58-427.6 :  Est-ce que c'est à cause de ça, du coup ?
+427.6-428.06 :  Tout à fait.
+428.06-438.2 :  En fait, ce qui se passe, c'est qu'en fait, tu as un système cryptographique de signature qui fait que chaque partie signe et vérifie la signature de l'élément d'après.
+438.52-448.62 :  Donc, c'est-à-dire que ta carte mère, ta carte graphique, ton câble, notamment quand c'est un câble actif, et ton écran sont HDCP.
+448.92-457.54 :  C'est-à-dire qu'en fait, quand tu commences, tu vas discuter avec le mec d'après, tu vérifies que sa clé de signature est donc valide
+457.54-463.88 :  et qu'elle a donc bien été contresignée par la clé route du HDCP Consortium
+463.88-470.82 :  et que donc tu as le droit de lui envoyer pour vérifier que ce soit pas un méchant qui laisse partir les données dans la nature.
+470.92-477.18 :  Donc, on est d'accord, le principe de base, c'est la plupart du temps, si on observait ce qui se baladait dans un câble HDMI,
+477.36-482.12 :  on pourrait directement voir que c'est des images, des vidéos d'une usine après les autres.
+482.64000000000004-487.98 :  Mais quand ce truc-là s'active, on comprend plus rien et il y a des clés qui chiffrent.
+488.3-491.88 :  Exactement. Et donc, il y a des clés qui chiffrent et donc il y a eu plusieurs générations de HDCP.
+492.0-494.9 :  Il y a eu des générations 1 et maintenant il y a la génération 2.
+495.14-501.52 :  Et la génération 1, elle a fini avec la clé route qui a fini dans la nature.
+502.28-502.68 :  C'est dommage.
+502.84-510.8 :  C'est exactement la même chose. C'est-à-dire que c'est un arbre de clé et tu dérives la clé NFOA avec des AES que tu dérives
+510.8-514.52 :  et qui te permet d'avoir en fait 2 puissants 64 clés qui sont dérivés de la première.
+514.62-516.8 :  Mais si tu as celle en haut, tu peux dériver toutes les clés.
+516.96-520.88 :  C'est la clé maîtresse qui te permet de déverrouiller tous les câbles.
+521.96-522.32 :  Exactement.
+522.46-526.5 :  Qui te permet de générer n'importe quelle clé et toutes les clés seront valides.
+526.6-528.1 :  Donc, en fait, tu casses la chaîne de confiance.
+528.7-531.04 :  Et donc, c'est un des trucs de plus.
+531.24-533.12 :  Ça s'est passé comment ? On sait comment elle a leak ?
+533.12-533.98 :  Officiellement, on ne sait pas.
+534.58-535.76 :  Et officieusement ?
+535.76-537.32 :  Je ne le dirai pas sur le plateau.
+537.4-538.58 :  Après, on se rapprise.
+539.1800000000001-545.42 :  Donc ensuite, il y a eu cette deuxième norme qui est le HDCP 2.0 qui là est en runy chiffrement encore plus fort.
+545.68-547.8 :  Et en fait, là, tu vas me dire mais à quoi ça sert ?
+547.8-549.1 :  Mais qui a inventé ça ?
+549.1-552.62 :  Et bien, en fait, c'est toujours le problème du piratage.
+553.06-557.1 :  C'est-à-dire que, en fait, ces consortiums, les gens autour de Sony, Panasonic, etc.
+557.18-561.18 :  essaient de vendre le fait qu'ils vont te faire, donc c'est tout ce qu'on appelle les DRM,
+561.28-564.56 :  qu'ils vont protéger et interdire le piratage.
+564.56-568.32 :  Or, entre le moment où n'importe quel truc passait à la télé,
+569.0-572.78 :  par exemple, le moment où il y avait peut-être le plus de gens qui regardaient un truc à la télé ever,
+572.9-575.66 :  c'était les sorties des derniers épisodes de Game of Thrones,
+576.08-581.56 :  entre le moment où il était diffusé à la télé et le moment où c'était le top one des trucs sur Pirate Bay,
+581.68-582.2 :  il y avait 40 minutes.
+583.04-585.48 :  C'est-à-dire qu'à la fin de l'épisode, en fait, le truc était déjà payé.
+585.64-586.5 :  Donc ça ne marche pas.
+586.74-588.12 :  Pourquoi ça ne marche pas ?
+588.12-589.42 :  C'est quoi le but ?
+589.42-592.24 :  Est-ce que le but, c'est d'interdire le piratage ?
+592.24-594.26 :  Et ce, alors à ce moment-là, c'est un échec ?
+594.26-595.12 :  C'est un échec total.
+595.8-596.72 :  Alors pourquoi ils continuent ?
+596.72-599.78 :  Peut-être que leur but, ça n'est pas d'empêcher le piratage.
+599.86-601.06 :  D'empêcher le piratage.
+601.36-604.4 :  Leur but, en fait, et en fait tu mets beaucoup de temps à comprendre,
+604.52-606.94 :  les gens ont du mal à comprendre la subtilité,
+607.02-611.78 :  c'est qu'en fait, ils vendent aux hommes politiques qui sont pressurisés de ouf par les acteurs en disant
+611.78-614.74 :  « ouin, on va perdre notre argent, on va perdre, etc. »
+614.74-618.64 :  Et ça, notre dieu à tous, Gabe l'a dit plein de fois avant d'en lancer ce team.
+618.94-622.98 :  Le problème du piratage, c'est pas un problème de gens qui veulent pas payer,
+622.98-624.76 :  c'est un problème d'accès à l'offre.
+625.4-628.28 :  Et en fait, quand t'as Steam, c'est tellement facile d'acheter des jeux,
+628.42-629.44 :  t'en achètes plein.
+629.52-631.38 :  On a tous des biologiques de Steam avec des milliards de trucs.
+631.9-635.88 :  Et même Netflix ou même Spotify, t'as plus envie de pirater ?
+635.88-636.66 :  Alors, Netflix va changer.
+637.3-638.14 :  On va y retourner.
+638.44-639.08 :  Oui, mais ça était le cas.
+639.2-639.92 :  C'était le cas, quoi.
+640.1-644.26 :  Donc, les industries te disent « oui, tu comprends, c'est très important,
+644.36-645.8 :  va aider contre le piratage »,
+645.8-647.28 :  en fait, c'est pas du tout ça qu'ils veulent faire.
+647.42-649.66 :  Ils veulent contrôler la distribution.
+650.26-654.86 :  C'est-à-dire qu'ils veulent être sûrs que tous les acteurs de la chaîne
+656.52-661.24 :  payent l'ensemble des brevets
+661.24-663.14 :  pour que toute l'industrie récupère son pognon.
+663.36-666.06 :  En fait, par exemple, c'est très difficile d'avoir une licence
+666.88-668.92 :  du chiffrement des DRM Blu-ray
+668.92-672.64 :  sans devoir aussi acheter une licence MPEG HEVC
+672.64-676.34 :  et en plus de payer une licence MPEG AVC, etc.
+676.34-678.94 :  Donc, en fait, ils s'assurent tous ensemble
+679.4200000000001-684.3 :  que tous les consommateurs vont payer et donner de l'argent,
+684.46-686.56 :  qui va être juste des brevets de royalties.
+686.76-689.54 :  Donc, on agite le piratage et en fait, c'est du...
+689.54-691.48 :  Parce qu'en fait, ce que tu veux être sûr,
+691.52-693.9 :  c'est que personne ne va tricher dans la diffusion.
+694.04-695.78 :  Tu vas pas avoir un OCS qui envoie un Game of Thrones
+695.78-697.8 :  trois jours avant pour faire le malin.
+698.46-702.08 :  En fait, tout le monde se tient par les burnes les uns les autres
+702.78-704.06 :  et ils ont une longue chaîne.
+704.26-705.38 :  Ils ont exactement une longue chaîne.
+705.38-709.12 :  Et en fait, ça veut dire que un acteur commercial
+709.12-711.72 :  ne va pas prendre le risque parce que tu comprends,
+711.74-713.9 :  à ce moment-là, tu as des lois qui sont hyper dangereuses,
+713.92-716.64 :  qui est, tu contours les DRM,
+716.8-719.32 :  notamment le copyright 1201 aux États-Unis,
+719.46-720.6 :  les lois DATSI et ECD.
+721.04-723.78 :  Et donc, en fait, et toi, en tant que consommateur, en fait,
+724.3-726.6 :  je sais pas, sur ton ordi, sur ton MacBook,
+726.84-730.94 :  des trucs comme ça, t'en dépenses pour bien 50, 60, 80 euros.
+731.1-732.04 :  Quand t'achètes un ordinateur,
+732.06-734.14 :  il y a entre 50 et 80 euros de licences
+734.14-737.32 :  qui reviennent à des royalties d'avoir déposé un brevet.
+737.42-739.18 :  Il n'y a rien de concret là-dedans.
+739.52-739.84 :  Ouais, tout à fait.
+740.54-742.02 :  Et là, c'est même pas des brevets parce que là,
+742.02-744.32 :  c'est même pas un brevet, c'est juste la certification.
+744.48-746.4 :  C'est-à-dire que tu pourras avoir la certification HDMI
+746.4-750.58 :  que tu dois payer, tu dois vérifier que tu passes la certification HDCP, etc.
+750.76-752.76 :  Est-ce que c'est la même chose, on a parlé de HDMI,
+752.84-754.58 :  est-ce que c'est la même chose sur DisplayPort,
+754.66-756.04 :  on a demandé dans le chat ?
+756.04-756.72 :  Ouais, ouais, tout pareil.
+757.0-759.24 :  En fait, le DisplayPort, normalement, te coûte plus cher
+760.2399999999999-762.04 :  à fabriquer et à utiliser,
+764.98-767.14 :  mais est moins relou sur la certification.
+767.36-768.26 :  Donc en fait, tu t'y retrouves.
+768.4-768.98 :  Ah oui, ok.
+769.24-772.38 :  Mais en fait, c'est un problème global de certification,
+772.48-774.74 :  de consortium dans le multimédia général.
+775.16-777.22 :  Et le multimédia en général est un endroit
+777.22-780.16 :  qui est complètement noyauté par ces arnaques,
+781.24-784.38 :  par ces contrôles, par des grosses industries.
+785.42-786.16 :  Et en fait, eux, ils te disent,
+786.22-787.42 :  moi, je te vends une télé à 1000 balles,
+787.5-790.96 :  donc j'ai que 3 euros de licences.
+790.96-791.78 :  Et c'est pas très grave.
+792.26-794.52 :  La question qui se pose instantanément,
+794.64-800.1 :  tu nous as parlé de HDMI 1 avec le HDCP qui s'est fait péter très rapidement.
+800.88-804.6 :  Ils ont ensuite augmenté la qualité de leur protection.
+805.06-807.02 :  Est-ce qu'aujourd'hui, c'est facile à casser ?
+807.02-807.62 :  Hyper simple.
+808.12-813.0 :  Tu vas sur AliExpress et tu trouves ce qu'on appelle un doubleur HDMI.
+813.24-814.76 :  Alors c'est quoi le concept d'un doubleur HDMI ?
+814.76-818.6 :  Un doubleur HDMI, c'est un truc qui prend un, une entrée,
+818.6-821.52 :  qui te le ressort et t'as plein d'usages tout à fait légaux.
+821.78-823.56 :  J'ai deux télés, je suis sur un plateau de télé,
+823.66-826.94 :  j'ai une entrée HDMI, je veux l'afficher à trois endroits.
+827.28-830.98 :  Et évidemment, comme tu as bien compris que tu dois négocier
+830.98-833.28 :  ton crypto avec l'élément suivant,
+833.54-835.46 :  c'est lequel l'élément suivant ?
+835.46-836.12 :  Oui, il y en a deux.
+836.56-839.28 :  Donc tu identifies bien avec le suivant,
+839.3-841.02 :  puis le deuxième, il est ouvert.
+841.84-842.78 :  Et donc c'est comme ça.
+843.4-845.58 :  C'est comme ça que quand tu veux pirater,
+845.62-847.84 :  enfin les pirates professionnels,
+847.84-850.74 :  en fait ce qu'ils ont, c'est qu'ils prennent l'intégralité
+851.6999999999999-854.74 :  de ce qui sort de l'HDMI, donc c'est à dire l'ensemble des télés,
+854.9-856.88 :  l'ensemble des set-top box, l'ensemble des lecteurs Blu-ray,
+857.06-861.02 :  l'ensemble de voilà, qui prend le chiffrement, mais parfait,
+861.7599999999999-864.68 :  déchiffré parfaitement, ils le prennent et dans un boîtier,
+864.72-866.28 :  ça sort en HDMI et puis de l'autre côté,
+866.3-867.36 :  ils reprennent le truc, ils encodent.
+867.54-868.9 :  Et il y a une version pirate qui part à droite.
+869.06-870.54 :  Et surtout, ça veut dire que, surtout,
+870.66-873.68 :  on a plein d'encoders en temps réel ou hardware ou software
+873.68-875.68 :  comme x264 de Vidéoland et en fait,
+875.68-879.36 :  à partir, grosso modo, t'écris, t'écris les, t'as peut-être quoi,
+879.9-882.28 :  t'as 200 ms, 200 ms de décalage par rapport au live.
+882.56-886.66 :  Donc en fait, le piratage, ils peuvent rajouter plein de trucs
+886.66-888.34 :  dans le piratage, quoi qu'il arrive à la fin,
+888.5-890.52 :  il faut en fait que tes yeux, ils soient capables de voir
+890.52-892.32 :  ce que tu regardes. En fait, le DRM...
+892.32-893.84 :  En gros, c'est un problème insoluble.
+893.96-898.28 :  Mais en fait, le DRM, c'est je te donne une porte avec un verrou,
+898.96-902.04 :  je te donne la clé et je te dis surtout, tu regardes pas la clé.
+902.44-904.14 :  Tu me dis, mais il faut bien que j'ouvre,
+904.14-906.32 :  il faut bien que j'ouvre pour rentrer dans la porte.
+906.68-908.44 :  Et toi, tu vas me dire, mais tu regardes pas la clé.
+908.74-911.2 :  Alors toi, tu fermes les yeux, tu mets la clé, tu tournes, tu rentres.
+911.76-914.26 :  Ils me prennent pour un con ou quoi ?
+914.26-917.64 :  Et ce qui est incroyable, c'est qu'à mon avis, les produits dont t'as parlé,
+918.4999999999999-921.38 :  99% de leurs clientèles, c'est pas des gens qui ont deux écrans
+921.38-923.38 :  et qui veulent splitter leur signal à la jamie.
+923.5-924.6 :  Évidemment, mais bon, voilà.
+924.76-928.9399999999999 :  Et en fait, et tout ça, en fait, il faut quand même savoir que casser un DRM,
+929.72-932.98 :  même si le DRM est pour Havre, c'est du pénal, quoi.
+932.98-935.52 :  C'est-à-dire que c'est vraiment des offenses importantes.
+936.16-937.74 :  Et aux Etats-Unis, ça peut être très grave.
+938.14-941.42 :  Donc, en fait, même si le chiffrement est pourri, même si c'est un XOR,
+941.46-944.98 :  même si c'est le truc de César où t'as déplacé les lettres de un truc,
+945.8-951.4 :  un DRM est considéré comme incassable si son but a été de ne pas être cassé.
+951.92-955.78 :  Donc, même si t'as écrit au-dessus, je souhaite que ceci soit chiffré.
+956.16-958.58 :  C'est comme une boîte aux lettres avec une serrure toute pétée.
+959.14-962.66 :  T'es pas censé l'ouvrir, même si tu mets un coup de gant et elle souffle.
+963.64-967.04 :  Globalement, on a une technologie qui est censée faire quelque chose
+967.04-971.4 :  qu'elle ne parvient pas à faire du tout, qu'elle ne parviendra probablement jamais à faire,
+972.26-978.5 :  qui a probablement un coût si tu cumules l'ensemble de ce qui est payé par tout le monde, qui est énorme.
+978.76-984.64 :  Ouais, mais globalement, ça n'est pas si important par rapport aux deux industries
+984.64-987.48 :  ou aux deux sous-industries qui sont du foutage de gueule total.
+987.48-993.72 :  Le premier, c'est tout ce qui est 4G, 5G, 3G avec une boîte qui s'appelle Qualcomm,
+994.48-997.3 :  qui récupère une fortune sur chacun des téléphones portables.
+997.36-1000.18 :  Et là, on parle de dizaines d'euros juste sur la partie modem.
+1000.38-1002.14 :  Et le deuxième qui est sur les codecs vidéo.
+1002.46-1005.1 :  Et donc, pas vraiment. C'est pour ça que je te dis le HDMI, oui,
+1005.34-1009.5 :  bon, c'est un peu, ça coûte un peu cher, mais ça rend un vrai service.
+1009.84-1013.08 :  Sachant qu'évidemment, si on n'avait pas le HDCP dans le HDMI, ce serait mieux.
+1013.3-1015.26 :  Mais on n'est pas sur des trucs où c'est abusé.
+1015.26-1020.56 :  Alors que dans les codecs vidéo ou dans la téléphonie, c'est du foutage de gueule total.
